@@ -121,7 +121,6 @@ Power BI dashboard for analyzing space mission trends, launch vehicle performanc
 ## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/amithesh-ts
-- GitHub: https://github.com/Amithesh10
 - Email: amitheshami72@gmail.com
 
 ---
